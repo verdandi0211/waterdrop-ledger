@@ -1,0 +1,18 @@
+{
+  "name": "水滴账本",
+  "short_name": "水滴账本",
+  "description": "每一笔支出是一滴水，落进本周的玻璃瓶；每周的水滴再收进当月的大瓶子。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1EBE1",
+  "theme_color": "#F1EBE1",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
